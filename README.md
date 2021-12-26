@@ -8,7 +8,7 @@
 
 ✅ deployed governance contract + treasury.
 
-✅ built a dapp that lets people connect their wallet, get an NFT, see a DAO Dashboard where they can see other members + actually vote on proposals that are executed directly by your governance contract.
+✅ Dapp to connect wallet, get an NFT, see a DAO Dashboard, list of other DAO members + vote on proposals that are executed directly by your governance contract.
 
 # Demo Website
 
